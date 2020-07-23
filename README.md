@@ -1,1 +1,1 @@
-# Vuppandla-Vaishnavi-TDD & Jumit
+# Vuppandla-Vaishnavi-TDD & Junit
